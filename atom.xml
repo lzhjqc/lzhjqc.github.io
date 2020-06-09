@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzhjqc.github.io</id>
     <title>飘飞的落叶</title>
-    <updated>2020-06-09T19:48:42.577Z</updated>
+    <updated>2020-06-09T19:51:37.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzhjqc.github.io"/>
     <link rel="self" href="https://lzhjqc.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://lzhjqc.github.io/images/avatar.png</logo>
     <icon>https://lzhjqc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 飘飞的落叶</rights>
+    <entry>
+        <title type="html"><![CDATA[ pycharm注册码]]></title>
+        <id>https://lzhjqc.github.io/post/pycharm-zhu-ce-ma/</id>
+        <link href="https://lzhjqc.github.io/post/pycharm-zhu-ce-ma/">
+        </link>
+        <updated>2020-06-09T19:27:23.000Z</updated>
+        <content type="html"><![CDATA[<p>授权服务器激活<br>
+优点：方便快捷</p>
+<p>缺点：激活的人数多了就容易被封杀，所以可能经常需要去激活</p>
+<p>选择License server激活，然后填入： idea.qmanga.com或http://xidea.online，然后点Activate激活即可，如果这几个服务器都无法激活，建议使用第二种激活码方式激活。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lzhjqc.github.io/post/hello-gridea/</id>
