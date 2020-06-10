@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzhjqc.github.io</id>
     <title>飘飞的落叶</title>
-    <updated>2020-06-09T19:51:37.763Z</updated>
+    <updated>2020-06-10T11:17:41.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzhjqc.github.io"/>
     <link rel="self" href="https://lzhjqc.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://lzhjqc.github.io/images/avatar.png</logo>
     <icon>https://lzhjqc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 飘飞的落叶</rights>
+    <entry>
+        <title type="html"><![CDATA[摆摊进货]]></title>
+        <id>https://lzhjqc.github.io/post/bai-tan-jin-huo/</id>
+        <link href="https://lzhjqc.github.io/post/bai-tan-jin-huo/">
+        </link>
+        <updated>2020-06-10T11:17:00.000Z</updated>
+        <content type="html"><![CDATA[<p>摆摊进货渠道https://gitmind.cn/app/doc/37a515614</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ pycharm注册码]]></title>
         <id>https://lzhjqc.github.io/post/pycharm-zhu-ce-ma/</id>
